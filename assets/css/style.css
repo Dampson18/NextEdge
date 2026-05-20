@@ -201,7 +201,7 @@ body.light-mode .theme-toggle {
 }
 
 body.light-mode .theme-toggle:hover {
-  color: var(--black);
+  color: #1a1a1a;
   border-color: rgba(0,0,0,.3);
 }
 
