@@ -108,7 +108,7 @@ body.light-mode nav.scrolled {
 }
 
 body.light-mode .nav-logo {
-  color: var(--black);
+  color: #0b061c;
 }
 
 .nav-logo span {
