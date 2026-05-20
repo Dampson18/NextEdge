@@ -84,7 +84,7 @@ nav {
 }
 
 body.light-mode nav {
-  background: rgba(250,250,248,.9);
+  background: rgb(163 163 135 / 90%);
   backdrop-filter: blur(24px);
   border-bottom: 1px solid rgba(0,0,0,.08);
 }
@@ -96,7 +96,7 @@ nav.scrolled {
 }
 
 body.light-mode nav.scrolled {
-  background: rgba(250,250,248,.95);
+  background: rgb(163 163 135 / 90%));
   border-color: rgba(0,0,0,.08);
 }
 
